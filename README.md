@@ -2,18 +2,22 @@
 
 📝 Today I Learned
 
-_1 TIL and counting..._
+_2 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Design Patterns](#design-patterns)
+* [Windows Terminal](#windows-terminal)
 
   ---
 
 ### Design Patterns
 - [Functional approach to design patterns in Python](design-patterns/functional-approach-to_design-patterns-in-python.md)
+
+### Windows Terminal
+- [findstr](windows-terminal/findstr.md)
  
 
 ## About
