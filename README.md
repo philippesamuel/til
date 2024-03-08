@@ -9,16 +9,22 @@ _2 TILs and counting..._
 ### Categories
 
 * [Design Patterns](#design-patterns)
+* [Windows Shortcuts](#windows-shortcuts)
 * [Windows Terminal](#windows-terminal)
+
 
   ---
 
 ### Design Patterns
 - [Functional approach to design patterns in Python](design-patterns/functional-approach-to_design-patterns-in-python.md)
 
+
+### Windows shortcuts
+- [Add date time: Ctr+Shift+[D, T, F]](windows-shortcuts/add-date-time)
+
 ### Windows Terminal
 - [findstr](windows-terminal/findstr.md)
- 
+
 
 ## About
 

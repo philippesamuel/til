@@ -1,3 +1,5 @@
+ # findstr
+ 
  One can search for files in a folder in the (windows) terminal using `findstr` (similar to unix' `grep`):
  
  ```shell
