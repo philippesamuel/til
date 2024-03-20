@@ -9,6 +9,7 @@ _2 TILs and counting..._
 ### Categories
 
 * [Design Patterns](#design-patterns)
+* [Plotly&Dash](#plotlydash)
 * [Windows Shortcuts](#windows-shortcuts)
 * [Windows Terminal](#windows-terminal)
 
@@ -18,6 +19,8 @@ _2 TILs and counting..._
 ### Design Patterns
 - [Functional approach to design patterns in Python](design-patterns/functional-approach-to_design-patterns-in-python.md)
 
+### Plotly&Dash
+- [Update graph object using `Patch()`](plotlydash/update-graph-object-using-patch.md)
 
 ### Windows shortcuts
 - [Add date time: Ctr+Shift+[D, T, F]](windows-shortcuts/add-date-time)
