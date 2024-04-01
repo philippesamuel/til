@@ -9,6 +9,7 @@ _2 TILs and counting..._
 ### Categories
 
 * [Design Patterns](#design-patterns)
+* [GitHub](#github)
 * [Plotly&Dash](#plotlydash)
 * [Windows Shortcuts](#windows-shortcuts)
 * [Windows Terminal](#windows-terminal)
@@ -18,6 +19,9 @@ _2 TILs and counting..._
 
 ### Design Patterns
 - [Functional approach to design patterns in Python](design-patterns/functional-approach-to_design-patterns-in-python.md)
+
+### GitHub
+- [Manage custom domains | CNAME](github/manage-custom-domains-cname.md)
 
 ### Plotly&Dash
 - [Update graph object using `Patch()`](plotlydash/update-graph-object-using-patch.md)
