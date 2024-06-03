@@ -2,7 +2,7 @@
 
 📝 Today I Learned
 
-_2 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -11,6 +11,7 @@ _2 TILs and counting..._
 * [Design Patterns](#design-patterns)
 * [GitHub](#github)
 * [Plotly&Dash](#plotlydash)
+* [Python](#python)
 * [Windows Shortcuts](#windows-shortcuts)
 * [Windows Terminal](#windows-terminal)
 
@@ -25,6 +26,9 @@ _2 TILs and counting..._
 
 ### Plotly&Dash
 - [Update graph object using `Patch()`](plotlydash/update-graph-object-using-patch.md)
+
+### Python
+- [Install and Execute Python Applications with pipx](python/pipx.md)
 
 ### Windows shortcuts
 - [Add date time: Ctr+Shift+[D, T, F]](windows-shortcuts/add-date-time)
